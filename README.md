@@ -19,6 +19,9 @@ A web scraper + interactive map that finds wheelchair-accessible locations in Ne
 **Displays:** Matrix-style live map  
 **Purpose:** Make NYC navigation easier for people who move differently.
 
+![Map View](assets/ui.png)
+
+
 ---
 
 ## > QUICK_START
