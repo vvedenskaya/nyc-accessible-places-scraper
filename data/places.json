@@ -1,0 +1,3902 @@
+{
+  "last_updated": "2025-10-23T21:31:54.262154",
+  "total_places": 210,
+  "places": [
+    {
+      "id": "ChIJO1mw5VlZwokR4wF8LFqcQLw",
+      "name": "The Wilson",
+      "address": "132 W 27th St, New York",
+      "lat": 40.7460206,
+      "lng": -73.99279039999999,
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJxwsmXClYwokRKReIJMuuo2g",
+      "name": "NoHu Rooftop Bar & Restaurant",
+      "address": "550 Ave at Port Imperial, Weehawken Township",
+      "lat": 40.7770053,
+      "lng": -74.011337,
+      "rating": 4,
+      "types": [
+        "bar",
+        "night_club",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJyQrN22VbwokRkPPkgVB6K-I",
+      "name": "Kahlo",
+      "address": "525 W 29th St, New York",
+      "lat": 40.7521599,
+      "lng": -74.0026804,
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJEwsBWoJZwokR0hUlK9HWIsM",
+      "name": "Supper",
+      "address": "156 E 2nd St, New York",
+      "lat": 40.7229331,
+      "lng": -73.9852274,
+      "rating": 4.4,
+      "types": [
+        "cafe",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJH-8y1IlZwokREcBhtiE4sZA",
+      "name": "Buona Notte",
+      "address": "120 Mulberry St, New York",
+      "lat": 40.7177496,
+      "lng": -73.9979524,
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJkXRIF7xZwokRWHXyMhvSNO8",
+      "name": "Gran Torino",
+      "address": "131 Berry St, Brooklyn",
+      "lat": 40.7183756,
+      "lng": -73.9589491,
+      "rating": 4.1,
+      "types": [
+        "restaurant",
+        "cafe",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJswKD6X9ZwokRzBuPAc0mo9E",
+      "name": "The Reading Room",
+      "address": "16 E 46th St, New York",
+      "lat": 40.7554083,
+      "lng": -73.97812259999999,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJtR9TuKVZwokRIKed0tq2lRg",
+      "name": "Grey | Bar and Restaurant",
+      "address": "43 W 26th St, New York",
+      "lat": 40.7446069,
+      "lng": -73.9906322,
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJFXCMz19XwokRpAmF8PZ6kM8",
+      "name": "Onieal's",
+      "address": "343 Park Ave, Hoboken",
+      "lat": 40.7416344,
+      "lng": -74.03232919999999,
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJb85ryKFZwokRaCJqC07E0G0",
+      "name": "Friend Of A Farmer",
+      "address": "77 Irving Pl Ground Floor, New York",
+      "lat": 40.7368776,
+      "lng": -73.98686230000001,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJxzjQ3vJXwokRXJ3J9NHM3DE",
+      "name": "La Bohème Restaurant",
+      "address": "233 Clinton St, Hoboken",
+      "lat": 40.7406365,
+      "lng": -74.03453669999999,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJiwZEH91ZwokRF5o4HRlqvGY",
+      "name": "The Orchard Townhouse",
+      "address": "242 10th Ave, New York",
+      "lat": 40.7483551,
+      "lng": -74.00342289999999,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ6atD-WRZwokRULgcZ4TWin8",
+      "name": "SAINT RESTAURANT BAR & SPEAKEASY",
+      "address": "136 2nd Ave, New York",
+      "lat": 40.7286979,
+      "lng": -73.9872499,
+      "rating": 4.5,
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJa-hSAVdYwokR-CMV2cYCFjY",
+      "name": "Le Tout Va Bien - French Restaurant",
+      "address": "311 W 51st St, New York",
+      "lat": 40.763406,
+      "lng": -73.98621899999999,
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJnQLwRJRYwokRAok9jZJTLrY",
+      "name": "The Mark Restaurant by Jean-Georges",
+      "address": "25 E 77th St, New York",
+      "lat": 40.7753416,
+      "lng": -73.9633279,
+      "rating": 3.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJk6hptv9YwokRyFgU6ePgPqI",
+      "name": "The Dawson Restaurant & Bar",
+      "address": "23 W 45th St, New York",
+      "lat": 40.756083,
+      "lng": -73.9805131,
+      "rating": 4.5,
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJyfIUA-hYwokRCvgf6LQGDUg",
+      "name": "The Spotted Dog",
+      "address": "1154 1st Ave, New York",
+      "lat": 40.7622442,
+      "lng": -73.95983609999999,
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJYQgB1pRZwokRhUb5IBPEl6A",
+      "name": "Hudson Hound",
+      "address": "575 Hudson St, New York",
+      "lat": 40.7361111,
+      "lng": -74.0061111,
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ60c5xqVZwokRv6aAYl8hT6s",
+      "name": "Bazár Tapas Bar and Restaurant",
+      "address": "31 W 26th St, New York",
+      "lat": 40.7444336,
+      "lng": -73.9900996,
+      "rating": 4.4,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJR3VvyQhZwokRjaNBDvAcCOc",
+      "name": "HARVEST KITCHEN",
+      "address": "269 Columbus Ave, New York",
+      "lat": 40.7778049,
+      "lng": -73.9783127,
+      "rating": 4.3,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ0Qva04lZwokRblbYm8Irh3E",
+      "name": "Casa Bella",
+      "address": "127 Mulberry St, New York",
+      "lat": 40.7180825,
+      "lng": -73.99812430000001,
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ9U7pl7BYwokRr21z5p96Ssw",
+      "name": "The Mansion",
+      "address": "1634 York Ave, New York",
+      "lat": 40.77599319999999,
+      "lng": -73.946857,
+      "rating": 4.4,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ1dUY9kRZwokR7lu8aF4zj-Y",
+      "name": "Five Leaves",
+      "address": "18 Bedford Ave, Brooklyn",
+      "lat": 40.7236991,
+      "lng": -73.95163889999999,
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJYYpwNA5ZwokRYImQw6JRNfI",
+      "name": "Chi Restaurant & Bar",
+      "address": "492 9th Ave, New York",
+      "lat": 40.7554594,
+      "lng": -73.9944725,
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJja0-KpdZwokRuOHSWneCBxE",
+      "name": "Amélie West Village Restaurant, Bistro & Wine Bar",
+      "address": "22 W 8th St, New York",
+      "lat": 40.7326963,
+      "lng": -73.9976436,
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJIXfVWkj3wokRiRiXBVg1Bys",
+      "name": "The Grand Feast",
+      "address": "854 Amsterdam Ave #1, New York",
+      "lat": 40.7977973,
+      "lng": -73.9678638,
+      "rating": 4.7,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ7d7HCIRZwokRAx1fZL6-MsA",
+      "name": "Heritage Grand Restaurant and Pizza Bar",
+      "address": "8 W 40th St, New York",
+      "lat": 40.75235079999999,
+      "lng": -73.982663,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJB1H-kopYwokRbuCvsBUUkaM",
+      "name": "Westside Restaurant",
+      "address": "2020 Broadway, New York",
+      "lat": 40.7762748,
+      "lng": -73.981776,
+      "rating": 3.9,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ9-oPPZNZwokR9XwT635xClU",
+      "name": "Peak with Priceless Restaurant & Bar",
+      "address": "30 Hudson Yards 101st floor, New York",
+      "lat": 40.7539962,
+      "lng": -74.0010727,
+      "rating": 4.5,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ_yWc1qhZwokRTxGO4AD3FJ0",
+      "name": "The Harold",
+      "address": "1271 Broadway, New York",
+      "lat": 40.748214,
+      "lng": -73.988376,
+      "rating": 4.2,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ18ntlYlYwokR6oDcJ_x0OPc",
+      "name": "Viand Cafe",
+      "address": "2130 Broadway, New York",
+      "lat": 40.7807728,
+      "lng": -73.98109459999999,
+      "rating": 4.1,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJz1BOzx5ZwokRCbrpgsDyf4c",
+      "name": "Jack's Wife Freda",
+      "address": "258 Wythe Ave, Brooklyn",
+      "lat": 40.71708539999999,
+      "lng": -73.963222,
+      "rating": 4.3,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJr_284IRYwokR_Ejcc1v_gtU",
+      "name": "Good Enough To Eat",
+      "address": "520 Columbus Ave, New York",
+      "lat": 40.78598030000001,
+      "lng": -73.972763,
+      "rating": 4.1,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJy8jTDBtawokRuFkJI_8AmuI",
+      "name": "P.J. Clarke's On The Hudson",
+      "address": "250 Vesey St, New York",
+      "lat": 40.7137112,
+      "lng": -74.0162387,
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJJZKgh3JZwokRceJLj_PM7IY",
+      "name": "Cathédrale Restaurant",
+      "address": "112 E 11th St, New York",
+      "lat": 40.7315339,
+      "lng": -73.98919750000002,
+      "rating": 4.2,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJv2qn4FlYwokRUd5t65_aVsw",
+      "name": "Medi Wine Bar & Restaurant",
+      "address": "811 9th Ave, New York",
+      "lat": 40.7658333,
+      "lng": -73.9875,
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJTb3nqbVZwokRSxHi96bv17U",
+      "name": "North Fork",
+      "address": "122 Christopher St, New York",
+      "lat": 40.7331478,
+      "lng": -74.0055833,
+      "rating": 4.2,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJJ4ARMFFYwokRRyJCDyI-fyM",
+      "name": "V{IV}",
+      "address": "717 9th Ave, New York",
+      "lat": 40.7627789,
+      "lng": -73.9896943,
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "night_club",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJt1zga1VYwokR6xt-JzNU3Yg",
+      "name": "Cafe Un Deux Trois",
+      "address": "123 W 44th St, New York",
+      "lat": 40.756692,
+      "lng": -73.9842151,
+      "rating": 4.2,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJfS6RWp1ZwokRHRCIiP-IApE",
+      "name": "Yuca Bar & Restaurant",
+      "address": "111 Avenue A, New York",
+      "lat": 40.7262053,
+      "lng": -73.98361779999999,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJv8YTWFRYwokRkTUSNDg04Y4",
+      "name": "Junior's Restaurant & Bakery",
+      "address": "1515 Broadway, W 45th St, New York",
+      "lat": 40.7583331,
+      "lng": -73.98663669999999,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJZ3o4EVZYwokRf3evFti1FLs",
+      "name": "Junior's Restaurant and Bakery",
+      "address": "1626 Broadway at, W 49th St, New York",
+      "lat": 40.76089229999999,
+      "lng": -73.9841591,
+      "rating": 4.4,
+      "types": [
+        "bakery",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJEdfcByRZwokRQe04uT7LBNY",
+      "name": "Blend LIC",
+      "address": "47-04 Vernon Blvd, Long Island City",
+      "lat": 40.745294,
+      "lng": -73.9534122,
+      "rating": 4.5,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJGSQEnuJYwokRTcsuPJjna7A",
+      "name": "Chazz Palminteri Italian Restaurant",
+      "address": "30 W 46th St, New York",
+      "lat": 40.7564645,
+      "lng": -73.980563,
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ3Yh5MCJZwokRn26xAVyciXg",
+      "name": "SHI",
+      "address": "47-20 Center Blvd, Long Island City",
+      "lat": 40.7459954,
+      "lng": -73.95709939999999,
+      "rating": 4.3,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJW5xpb_1YwokR_ioNQo7Ot4c",
+      "name": "Connolly's",
+      "address": "14 E 47th St, New York",
+      "lat": 40.7561352,
+      "lng": -73.97769079999999,
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ329uV7xZwokRfM6dcDcOtKY",
+      "name": "Cafeteria",
+      "address": "119 7th Ave, New York",
+      "lat": 40.7405289,
+      "lng": -73.998037,
+      "rating": 4.3,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJAS2EC-JYwokRnODSAgVo0_8",
+      "name": "Gracie Mews Diner",
+      "address": "1550 1st Ave, New York",
+      "lat": 40.7734447,
+      "lng": -73.9516635,
+      "rating": 4.3,
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "meal_delivery",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJBfjMbPJbwokRrcQD5YX1LEI",
+      "name": "Wo Hop",
+      "address": "17 Mott St, New York",
+      "lat": 40.7142762,
+      "lng": -73.998921,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJlxDiXJxZwokRp4HHbeYqXXU",
+      "name": "Veselka",
+      "address": "144 2nd Ave, New York",
+      "lat": 40.7290155,
+      "lng": -73.9871139,
+      "rating": 4.6,
+      "types": [
+        "meal_takeaway",
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJNWqsMilRwokRLuK8AmP2ijY",
+      "name": "Lokal Eatery & Bar",
+      "address": "2 2nd St, Jersey City",
+      "lat": 40.7214361,
+      "lng": -74.0318063,
+      "rating": 4.2,
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJeWk_ncJZwokR1QHfApa0dQo",
+      "name": "Pranakhon",
+      "address": "88 University Pl, New York",
+      "lat": 40.733751,
+      "lng": -73.9932623,
+      "rating": 4.7,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJfWR-y6VYwokRWrgtJnJvfYU",
+      "name": "Barking Dog Restaurant",
+      "address": "1678 3rd Ave, New York",
+      "lat": 40.784104,
+      "lng": -73.950454,
+      "rating": 4.2,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJR4fcjLtYwokRu8yexUQhOTg",
+      "name": "Paola's",
+      "address": "1361 Lexington Ave, New York",
+      "lat": 40.7822019,
+      "lng": -73.9534096,
+      "rating": 4.5,
+      "types": [
+        "meal_delivery",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ3aKC18JZwokRV_edM73h9UI",
+      "name": "Mitr Thai Restaurant",
+      "address": "37 W 46th St, New York",
+      "lat": 40.75687689999999,
+      "lng": -73.9804147,
+      "rating": 4.9,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJK2fErLBZwokRk6aRBp_yqGI",
+      "name": "Citizens Of Chelsea",
+      "address": "401 W 25th St, New York",
+      "lat": 40.7480877,
+      "lng": -74.0005678,
+      "rating": 4.7,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJnSnH8qxZwokRzoMUSAeaFAA",
+      "name": "Black Iron Burger",
+      "address": "245 W 38th St, New York",
+      "lat": 40.754282,
+      "lng": -73.990352,
+      "rating": 4.5,
+      "types": [
+        "meal_takeaway",
+        "meal_delivery",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJz6VeesBYwokRNBYu4Sar8lw",
+      "name": "THEP Thai Restaurant",
+      "address": "1439 2nd Ave, New York",
+      "lat": 40.7707714,
+      "lng": -73.9572357,
+      "rating": 4.7,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJzVQMQlZYwokRiXI_3cFrKz8",
+      "name": "CanteenM",
+      "address": "218 W 50th St, New York",
+      "lat": 40.7615213,
+      "lng": -73.98502239999999,
+      "rating": 4.6,
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ5bcaq4FZwokRr9FKtt0wE-M",
+      "name": "Guarapo Latin Fusion",
+      "address": "58 N 3rd St, Brooklyn",
+      "lat": 40.71754079999999,
+      "lng": -73.9634615,
+      "rating": 4.5,
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ4-BS7ElZwokRwYRG1gz-D_0",
+      "name": "Cafe Skye",
+      "address": "43 Clinton St, New York",
+      "lat": 40.7199522,
+      "lng": -73.9848726,
+      "rating": 4.9,
+      "types": [
+        "bar",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJoX2bmntZwokRpqoCyes0gGs",
+      "name": "Central Park Cafe",
+      "address": "910 7th Ave, New York",
+      "lat": 40.7661278,
+      "lng": -73.9799349,
+      "rating": 4.1,
+      "types": [
+        "cafe",
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJccD1RIdZwokRnO2erj2tdag",
+      "name": "Waypoint Cafe NYC",
+      "address": "65 Ludlow St, New York",
+      "lat": 40.7172961,
+      "lng": -73.9898998,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJb3QN9hf2wokRl-A7nikpq-0",
+      "name": "Cafe Amrita",
+      "address": "301 W 110th St, New York",
+      "lat": 40.8010703,
+      "lng": -73.9588282,
+      "rating": 4.1,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJif490AJZwokRtX3kYQ2ey04",
+      "name": "pinkFROG cafe",
+      "address": "221 N 9th St, Brooklyn",
+      "lat": 40.7177713,
+      "lng": -73.9544367,
+      "rating": 4.7,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJp2voCzBZwokR54jbbO8Dblw",
+      "name": "Lately Café/Bistro/Bar",
+      "address": "23-08 44th Dr, Long Island City",
+      "lat": 40.7473227,
+      "lng": -73.94473049999999,
+      "rating": 4.1,
+      "types": [
+        "bar",
+        "cafe",
+        "furniture_store",
+        "home_goods_store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJBanVDl1ZwokROc3C9FpKZ78",
+      "name": "Cafe Colette",
+      "address": "79 Berry St, Brooklyn",
+      "lat": 40.7197483,
+      "lng": -73.9576144,
+      "rating": 4.4,
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "bar",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ95NLJ4lZwokRJ_NbOfYEz50",
+      "name": "Cafe Select",
+      "address": "212 Lafayette St, New York",
+      "lat": 40.7217849,
+      "lng": -73.99780249999999,
+      "rating": 4.1,
+      "types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ1c92sKtZwokRWftd2S06j6s",
+      "name": "Bluestone Lane 55 Hudson Yards Café",
+      "address": "55 Hudson Yards, New York",
+      "lat": 40.7551684,
+      "lng": -74.0015389,
+      "rating": 4.5,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJlZ1jG6NZwokRQIXt47NzppA",
+      "name": "Good Thanks Cafe",
+      "address": "131 Orchard St, New York",
+      "lat": 40.71976069999999,
+      "lng": -73.98956749999999,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJjW7JHelZwokRnkEk29yKZHE",
+      "name": "Festivál Cafe",
+      "address": "1155 2nd Ave, New York",
+      "lat": 40.76182499999999,
+      "lng": -73.963759,
+      "rating": 4.4,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJMVLvHgBZwokRmQMTMwPeC-8",
+      "name": "Slate Cafe Upper West Side",
+      "address": "Entrance on, E, 2109 Broadway, W 74th St, New York",
+      "lat": 40.7804381,
+      "lng": -73.9820721,
+      "rating": 4.8,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJM2JhFptZwokRqbbbnA7PLOw",
+      "name": "Café Standard",
+      "address": "The Standard, 25 Cooper Sq, New York",
+      "lat": 40.7278457,
+      "lng": -73.9907716,
+      "rating": 4.3,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "bar",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJgYq_8ldYwokRHlqufjmiQGw",
+      "name": "Cascade",
+      "address": "900 8th Ave, New York",
+      "lat": 40.7645954,
+      "lng": -73.9841239,
+      "rating": 4.4,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJw1j_MK1ZwokRJ_9Wz_NoAaQ",
+      "name": "Aleef Cafe",
+      "address": "333 W 39th St, New York",
+      "lat": 40.7561758,
+      "lng": -73.9925797,
+      "rating": 4.8,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJL1fyf6BZwokRjnzysdh3BvE",
+      "name": "Saltwater Coffee & Wine Bar",
+      "address": "90 Rivington St, New York",
+      "lat": 40.7203405,
+      "lng": -73.988765,
+      "rating": 4.2,
+      "types": [
+        "book_store",
+        "cafe",
+        "liquor_store",
+        "food",
+        "bar",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJcaZiKLVZwokRmPzP29O2DNU",
+      "name": "In Common NYC - A Breakfast & Brunch Restaurant",
+      "address": "441 9th Ave Suite 101, New York",
+      "lat": 40.7538481,
+      "lng": -73.996276,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJuZXkG91ZwokRFmYZ-nPB2Wg",
+      "name": "maman",
+      "address": "667 Lexington Ave, New York",
+      "lat": 40.7599033,
+      "lng": -73.9696802,
+      "rating": 4.2,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJDTUgz1dZwokRtsQ97Tbf0cA",
+      "name": "Bluestone Lane Chelsea Piers Café",
+      "address": "62 Chelsea Piers Pier 62, New York",
+      "lat": 40.7485378,
+      "lng": -74.0087457,
+      "rating": 4.3,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJqX19qE1RwokREX31R1zRqSk",
+      "name": "Cafe Dream Vista Cafe/Shop/Event",
+      "address": "177 York St, Jersey City",
+      "lat": 40.7164106,
+      "lng": -74.0419525,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "bakery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ73jk7Y5ZwokR8XknCWHfDKg",
+      "name": "Fanelli Café",
+      "address": "94 Prince St, New York",
+      "lat": 40.7246254,
+      "lng": -73.9987757,
+      "rating": 4.3,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJi5i5-ExZwokRqWdVXKDeM64",
+      "name": "Berlina Cafe & Pizza",
+      "address": "600 8th Ave, New York",
+      "lat": 40.7553918,
+      "lng": -73.9908612,
+      "rating": 4.1,
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJYZkAG6BZwokRtF1U7_9ZaJ4",
+      "name": "VINTAGE CAFE",
+      "address": "102 E 7th St, New York",
+      "lat": 40.7265318,
+      "lng": -73.98504609999999,
+      "rating": 4.1,
+      "types": [
+        "cafe",
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJv102fbVZwokRt4kTkb37MjI",
+      "name": "No Stress Coffee",
+      "address": "42-77 Hunter St, Long Island City",
+      "lat": 40.7485058,
+      "lng": -73.940641,
+      "rating": 4.7,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJm_yz_uJYwokRqV8vH8iVeWA",
+      "name": "MORNING STAR CAFE",
+      "address": "949 2nd Ave, New York",
+      "lat": 40.7552279,
+      "lng": -73.9686148,
+      "rating": 4.3,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJyfJXNphZwokRbo-oe0DjVT4",
+      "name": "Drip Drop Café, coffee shop",
+      "address": "98 Thompson St, New York",
+      "lat": 40.72541150000001,
+      "lng": -74.002083,
+      "rating": 4.8,
+      "types": [
+        "cafe",
+        "art_gallery",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJjdjCLlJZwokR-qJu3EjlDEg",
+      "name": "Coffee Project New York | Chelsea",
+      "address": "155 7th Ave, New York",
+      "lat": 40.7418283,
+      "lng": -73.9970911,
+      "rating": 4.3,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJcQM_C4FZwokR0xEGxV7HeVM",
+      "name": "Now or Never Coffee",
+      "address": "30 Grand St, New York",
+      "lat": 40.7229055,
+      "lng": -74.0045789,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "bar",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJhWo0vvNZwokR27NHzLl25K8",
+      "name": "Metro Cafe",
+      "address": "297 7th Ave, New York",
+      "lat": 40.7463258,
+      "lng": -73.9936389,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJCzL77tVZwokRaEXa3805-EA",
+      "name": "Honeybird Coffee",
+      "address": "2 N 6th Pl, Brooklyn",
+      "lat": 40.7206186,
+      "lng": -73.9632531,
+      "rating": 4.5,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJhWUI8YFfwokRnf0w_vrbRxI",
+      "name": "Coffee Cloud",
+      "address": "21-34 Broadway, Astoria",
+      "lat": 40.7644818,
+      "lng": -73.9306765,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJB-TnioVZwokR1qMpyVU83P4",
+      "name": "Cafe Gitane",
+      "address": "242 Mott St, New York",
+      "lat": 40.7231469,
+      "lng": -73.9947531,
+      "rating": 4.2,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJCfJn3TxZwokRMRC8I-b0X1I",
+      "name": "Greta - Greenpoint neighborhood coffee shop",
+      "address": "204 Nassau Ave, Brooklyn",
+      "lat": 40.7255034,
+      "lng": -73.94474149999999,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJY3pQTGdYwokRWpJej5Etii8",
+      "name": "Blu Café",
+      "address": "120 Riverside Blvd, New York",
+      "lat": 40.7764285,
+      "lng": -73.9891274,
+      "rating": 4.1,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJK0FlVPNZwokR2waVBj-VHko",
+      "name": "Ariston Coffee Bar",
+      "address": "78 5th Ave, New York",
+      "lat": 40.7358203,
+      "lng": -73.9941825,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ63ly5nlZwokR9tEeeucKRnA",
+      "name": "Urbana Cafe and Gallery",
+      "address": "144 10th Ave, New York",
+      "lat": 40.7450203,
+      "lng": -74.00585149999999,
+      "rating": 4.6,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJc4EUM3ZZwokRt3SjagnRHsg",
+      "name": "Horus Cafe on A",
+      "address": "293 E 10th St, New York",
+      "lat": 40.7279082,
+      "lng": -73.9820184,
+      "rating": 4.2,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJlVYr64lYwokRDBqJOMzejJo",
+      "name": "Fairway 74th Street Cafe",
+      "address": "2131 Broadway, New York",
+      "lat": 40.7808936,
+      "lng": -73.9818428,
+      "rating": 4.1,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJsZJObxv3wokR-xl-6tTtcH8",
+      "name": "Lamb's Bread Cafe & Infused Bakery",
+      "address": "2128 2nd Ave, New York",
+      "lat": 40.7927518,
+      "lng": -73.9405876,
+      "rating": 5,
+      "types": [
+        "cafe",
+        "bakery",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": null
+    },
+    {
+      "id": "ChIJmzPYgJFZwokRUX8NSi3feBk",
+      "name": "Olive Tree Cafe",
+      "address": "117 MacDougal St, New York",
+      "lat": 40.7301543,
+      "lng": -74.0004925,
+      "rating": 4.4,
+      "types": [
+        "cafe",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ1bM7WeVZwokRdnontikwFK4",
+      "name": "The Oasis Cafe",
+      "address": "857 9th Ave, New York",
+      "lat": 40.7671347,
+      "lng": -73.98665299999999,
+      "rating": 4.4,
+      "types": [
+        "bakery",
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJN98vqLZZwokRnXnKsKuEc-w",
+      "name": "Carnegie Diner & Cafe",
+      "address": "205 W 57th St, New York",
+      "lat": 40.765753,
+      "lng": -73.98012109999999,
+      "rating": 4.5,
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJnf5Rpv1ZwokRTzMEC8i44xE",
+      "name": "Sunday to Sunday",
+      "address": "88 Orchard St, New York",
+      "lat": 40.7180213,
+      "lng": -73.990175,
+      "rating": 4.2,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJuU3yhK9ZwokRVls7Mp3XqLY",
+      "name": "Little Collins",
+      "address": "708 3rd Ave, New York",
+      "lat": 40.7523639,
+      "lng": -73.97351139999999,
+      "rating": 4.5,
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ_abIqHtZwokRLWbw0G-lzu8",
+      "name": "Café-Flor / Bar 21",
+      "address": "218 8th Ave, New York",
+      "lat": 40.7440652,
+      "lng": -73.9991636,
+      "rating": 4.2,
+      "types": [
+        "florist",
+        "cafe",
+        "bar",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJWXH80cBYwokRfEis5qEZT-w",
+      "name": "Inès",
+      "address": "419 E 74th St, New York",
+      "lat": 40.7688577,
+      "lng": -73.954084,
+      "rating": 4.5,
+      "types": [
+        "cafe",
+        "bar",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJNwVudABZwokRQTPkSXm0iog",
+      "name": "Bryant Park Café",
+      "address": "1065 6th Ave #2400, New York",
+      "lat": 40.7536881,
+      "lng": -73.98258969999999,
+      "rating": 4.3,
+      "types": [
+        "bar",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJxV0BWwBZwokRwcbhGYGDDx0",
+      "name": "The Oasis Cafe",
+      "address": "198 Avenue A, New York",
+      "lat": 40.7292226,
+      "lng": -73.9809392,
+      "rating": 4.7,
+      "types": [
+        "bakery",
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ24V7r_31wokR-S71l2zqrwc",
+      "name": "Love Cafe",
+      "address": "283 Pleasant Ave, New York",
+      "lat": 40.7945967,
+      "lng": -73.93374,
+      "rating": 4.4,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ43vkwoJYwokRSnpIc8CJy0M",
+      "name": "Edgar's Cafe",
+      "address": "650 Amsterdam Ave, New York",
+      "lat": 40.791388,
+      "lng": -73.9725874,
+      "rating": 3.9,
+      "types": [
+        "restaurant",
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJEVVgiCz3wokRjVxrVqLaxcw",
+      "name": "The Monkey Cup",
+      "address": "1965 Adam Clayton Powell Jr Blvd, New York",
+      "lat": 40.8046407,
+      "lng": -73.95118819999999,
+      "rating": 4.7,
+      "types": [
+        "cafe",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJfeDhW3RZwokRjIgxvF8-ca8",
+      "name": "Five Stuy Cafe",
+      "address": "5 Stuyvesant Oval, New York",
+      "lat": 40.7318826,
+      "lng": -73.9788629,
+      "rating": 4.1,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJNUVFGtlZwokReMbMDzP1Aec",
+      "name": "Carnegie Diner & Cafe",
+      "address": "828 8th Ave, New York",
+      "lat": 40.7620089,
+      "lng": -73.9860031,
+      "rating": 4.5,
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJUTcQekxZwokRUX1rPYkkQ1w",
+      "name": "Eat Pretty",
+      "address": "501 1/2 E 83rd St, New York",
+      "lat": 40.7738603,
+      "lng": -73.9480404,
+      "rating": 4.4,
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJzTLtYUlfwokREss7JqDS5qo",
+      "name": "Château le Woof",
+      "address": "31-01 Vernon Blvd, Astoria",
+      "lat": 40.7690322,
+      "lng": -73.9356457,
+      "rating": 4.7,
+      "types": [
+        "cafe",
+        "pet_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJr4J2gZFZwokRA2y5p4UfH8I",
+      "name": "Caffe Reggio",
+      "address": "119 MacDougal St, New York",
+      "lat": 40.7303051,
+      "lng": -74.00036469999999,
+      "rating": 4.3,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJlQHSEplZwokRvhA5XFQlX_A",
+      "name": "outro nyc",
+      "address": "816 Broadway, New York",
+      "lat": 40.7327739,
+      "lng": -73.9909553,
+      "rating": 4.4,
+      "types": [
+        "cafe",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJe-5PkbFQwokRMMFMVnIYkYs",
+      "name": "Beechwood Cafe",
+      "address": "290 Grove St, Jersey City",
+      "lat": 40.718322,
+      "lng": -74.04347539999999,
+      "rating": 4.1,
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJe9LNrYpZwokR9tf-neykotc",
+      "name": "Cafe Clementine",
+      "address": "325 Greenwich St, New York",
+      "lat": 40.7175498,
+      "lng": -74.0103357,
+      "rating": 4.5,
+      "types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJCXoPsPRYwokRsV1MYnKBfaI",
+      "name": "American Museum of Natural History",
+      "address": "200 Central Prk W, New York",
+      "lat": 40.7813241,
+      "lng": -73.9739882,
+      "rating": 4.5,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJmZ5emqJYwokRuDz79o0coAQ",
+      "name": "Solomon R. Guggenheim Museum",
+      "address": "1071 5th Ave, New York",
+      "lat": 40.7829796,
+      "lng": -73.9589706,
+      "rating": 4.3,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJHRH97uxYwokR6CBeDyn1jtg",
+      "name": "The Frick Collection",
+      "address": "1 E 70th St, New York",
+      "lat": 40.7711272,
+      "lng": -73.9674038,
+      "rating": 4.6,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJN3MJ6pRYwokRiXg91flSP8Y",
+      "name": "Whitney Museum of American Art",
+      "address": "99 Gansevoort St, New York",
+      "lat": 40.7395877,
+      "lng": -74.0088629,
+      "rating": 4.5,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJmamBZtVZwokR6phs86DKbP0",
+      "name": "Color Factory NYC",
+      "address": "251 Spring St, New York",
+      "lat": 40.725773,
+      "lng": -74.0053337,
+      "rating": 4.4,
+      "types": [
+        "tourist_attraction",
+        "amusement_park",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJb8Jg9pZYwokR-qHGtvSkLzs",
+      "name": "The Metropolitan Museum of Art",
+      "address": "1000 5th Ave, New York",
+      "lat": 40.7794366,
+      "lng": -73.963244,
+      "rating": 4.8,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ88ubVY5YwokR49M3a3PUQd8",
+      "name": "Hayden Planetarium",
+      "address": "200 Central Prk W, New York",
+      "lat": 40.7814802,
+      "lng": -73.9732193,
+      "rating": 4.6,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJQ6yZIaFZwokRl0jsn5VBk_M",
+      "name": "ARTECHOUSE NYC",
+      "address": "439 W 15th St, New York",
+      "lat": 40.7426002,
+      "lng": -74.0065704,
+      "rating": 4.1,
+      "types": [
+        "tourist_attraction",
+        "art_gallery",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJTZoUA1hYwokRKneaNqQpIf8",
+      "name": "SPYSCAPE",
+      "address": "928 8th Ave, New York",
+      "lat": 40.7652697,
+      "lng": -73.9837269,
+      "rating": 4.5,
+      "types": [
+        "tourist_attraction",
+        "book_store",
+        "museum",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJOQ-7a5pZwokRewFuCQNqCzk",
+      "name": "The Museum of Interesting Things (advance appt only)",
+      "address": "Georgetown Plaza, 60 E 8th St, New York",
+      "lat": 40.7305539,
+      "lng": -73.9930526,
+      "rating": 4.7,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": null
+    },
+    {
+      "id": "ChIJWQHW9KZZwokRKLzyBDe6mIc",
+      "name": "National Museum of Mathematics",
+      "address": "225 5th Ave, New York",
+      "lat": 40.7436338,
+      "lng": -73.9878621,
+      "rating": 4.1,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJhZdFcLJZwokRoWu52hrqyZE",
+      "name": "Gilder Center for Science, Education, and Innovation",
+      "address": "415 Columbus Ave, New York",
+      "lat": 40.7816285,
+      "lng": -73.9744255,
+      "rating": 4.8,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJo9DW6I9YwokR8UjIKmzHkrI",
+      "name": "Rose Center for Earth and Space",
+      "address": "200 Central Prk W, New York",
+      "lat": 40.781506,
+      "lng": -73.9734537,
+      "rating": 4.6,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJKxDbe_lYwokRVf__s8CPn-o",
+      "name": "The Museum of Modern Art",
+      "address": "11 W 53rd St, New York",
+      "lat": 40.7614327,
+      "lng": -73.97762159999999,
+      "rating": 4.6,
+      "types": [
+        "tourist_attraction",
+        "art_gallery",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJVdeFgMBZwokR6O7aBJFn0g4",
+      "name": "9/11 Museum Workshop: 100 Images & Artifacts Exhibit",
+      "address": "420 W 14th St fl 2, New York",
+      "lat": 40.7412997,
+      "lng": -74.0066499,
+      "rating": 4.6,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ3453OAdZwokRja92OOKCugM",
+      "name": "The Morgan Library & Museum",
+      "address": "225 Madison Ave, New York",
+      "lat": 40.7492258,
+      "lng": -73.9813971,
+      "rating": 4.7,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ62VOeIZYwokRQwpWIK3w4aU",
+      "name": "Children's Museum Of Manhattan",
+      "address": "212 W 83rd St, New York",
+      "lat": 40.785877,
+      "lng": -73.977283,
+      "rating": 4.2,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJAx_yUCVfwokRQ2xEBIWV21g",
+      "name": "Museum of the Moving Image",
+      "address": "36-01 35th Ave, Queens",
+      "lat": 40.7563454,
+      "lng": -73.9239496,
+      "rating": 4.6,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "movie_theater",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJRcvoOxpawokR7R4dQMXMMPQ",
+      "name": "9/11 Memorial & Museum",
+      "address": "180 Greenwich St, New York",
+      "lat": 40.7115776,
+      "lng": -74.0133362,
+      "rating": 4.8,
+      "types": [
+        "museum",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ35PIDbVZwokRPCrsISHXdmg",
+      "name": "Banksy Museum New York",
+      "address": "277 Canal St, New York",
+      "lat": 40.7194277,
+      "lng": -74.0013903,
+      "rating": 4.7,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJi4hYtB32wokR1Npx_Tv7phk",
+      "name": "Museum of the City of New York",
+      "address": "1220 5th Ave, New York",
+      "lat": 40.7925318,
+      "lng": -73.9519897,
+      "rating": 4.5,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJwfbFiiNZwokRN8hnF940DbY",
+      "name": "MoMA PS1",
+      "address": "22-25 Jackson Ave, Queens",
+      "lat": 40.7456014,
+      "lng": -73.947097,
+      "rating": 4.4,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJw7GUS-5ZwokRmhit4hpZT74",
+      "name": "Museum of Broadway",
+      "address": "145 W 45th St, New York",
+      "lat": 40.75758159999999,
+      "lng": -73.9843708,
+      "rating": 4.7,
+      "types": [
+        "museum",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJi_gUG19ZwokRVOVHajV6iTI",
+      "name": "The City Reliquary Museum",
+      "address": "370 Metropolitan Ave, Brooklyn",
+      "lat": 40.7139653,
+      "lng": -73.95580149999999,
+      "rating": 4.3,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJxcSlpvJYwokRLcMSp1tjBf4",
+      "name": "The Mall and Literary Walk",
+      "address": "The Mall, New York",
+      "lat": 40.77235220000001,
+      "lng": -73.9715901,
+      "rating": 4.8,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJUZ0c7MpYwokRh8SiMzCXL98",
+      "name": "The Noguchi Museum",
+      "address": "9-01 33rd Rd, Astoria",
+      "lat": 40.7668832,
+      "lng": -73.9380971,
+      "rating": 4.7,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ6UitwqRZwokR2UuUi8NrdAg",
+      "name": "Poster House",
+      "address": "119 W 23 St, New York",
+      "lat": 40.7435919,
+      "lng": -73.9933284,
+      "rating": 4.7,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ-RrKrY9YwokRttSS3UNZYgw",
+      "name": "Hall of Saurischian Dinosaurs",
+      "address": "79 W 79th St, New York",
+      "lat": 40.7811622,
+      "lng": -73.97361579999999,
+      "rating": 4.7,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJeXQWdutYwokRuHX2h1so5K4",
+      "name": "Asia Society and Museum",
+      "address": "725 Park Ave, New York",
+      "lat": 40.7699554,
+      "lng": -73.9644151,
+      "rating": 4.5,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJfz7X-qlbwokR5iwB3vcU4Pk",
+      "name": "Mural Project",
+      "address": "Two World Trade Center, New York",
+      "lat": 40.7119888,
+      "lng": -74.0106502,
+      "rating": 4.6,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJlZzMT3xbwokRAQXxncCYDo4",
+      "name": "MoGA NYC - Museum of Graffiti Art",
+      "address": "177 Chrystie St, New York",
+      "lat": 40.7211125,
+      "lng": -73.992503,
+      "rating": 4,
+      "types": [
+        "art_gallery",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJuaCKTw1ZwokRHLgvAIqxaJE",
+      "name": "Jackie Robinson Museum",
+      "address": "75 Varick St, New York",
+      "lat": 40.72346210000001,
+      "lng": -74.0068304,
+      "rating": 4.7,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJqYNWJ0lYwokR0bWj13-SWEk",
+      "name": "Space Shuttle Pavillion",
+      "address": "Pier 86, 12th Ave & W 46th St, New York",
+      "lat": 40.76514179999999,
+      "lng": -74.0017859,
+      "rating": 4.7,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJvcjmWLVYwokRFz2FMdi00cA",
+      "name": "Socrates Sculpture Park",
+      "address": "32-01 Vernon Blvd, Queens",
+      "lat": 40.7688089,
+      "lng": -73.93650989999999,
+      "rating": 4.4,
+      "types": [
+        "museum",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": null
+    },
+    {
+      "id": "ChIJz0JBrLn3wokRWUKelbmhl04",
+      "name": "Play Street Museum - Upper West Side",
+      "address": "805 Columbus Ave, New York",
+      "lat": 40.7950355,
+      "lng": -73.9657324,
+      "rating": 4.9,
+      "types": [
+        "museum",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJgVtmM_ZYwokRcJJnebe5KX8",
+      "name": "Museum of Arts and Design",
+      "address": "2 Columbus Cir, New York",
+      "lat": 40.767375,
+      "lng": -73.98194720000001,
+      "rating": 4.2,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ1bAvpItZwokRaOvPH7FibmA",
+      "name": "Leslie-Lohman Museum of Art",
+      "address": "26 Wooster St, New York",
+      "lat": 40.7216833,
+      "lng": -74.00312009999999,
+      "rating": 4.6,
+      "types": [
+        "art_gallery",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJzT4qRatZwokRELNiRd8Su_4",
+      "name": "The Museum at FIT",
+      "address": "227 W 27th St, New York",
+      "lat": 40.746444,
+      "lng": -73.9941631,
+      "rating": 4.5,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJd7I1IO5ZwokRbv7YUlgChl4",
+      "name": "SUMMIT One Vanderbilt",
+      "address": "45 E 42nd St, New York",
+      "lat": 40.7527746,
+      "lng": -73.9787253,
+      "rating": 4.7,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ7QYh1gZZwokRQgSBBv50DdI",
+      "name": "Scandinavia House",
+      "address": "58 Park Ave, New York",
+      "lat": 40.7494166,
+      "lng": -73.9799556,
+      "rating": 4.5,
+      "types": [
+        "museum",
+        "movie_theater",
+        "tourist_attraction",
+        "art_gallery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJI7-TadtbwokRwjBYBYwYy0o",
+      "name": "Curate My Selfie",
+      "address": "350 Broadway, New York",
+      "lat": 40.7168472,
+      "lng": -74.0037846,
+      "rating": 4.5,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ3eGnhqJbwokRM9K3829vAfs",
+      "name": "Museum & Chefs Table Arts Top Floor",
+      "address": "100 Barclay St, New York",
+      "lat": 40.71357099999999,
+      "lng": -74.0127983,
+      "rating": 5,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJcZLq5sVZwokRyH6dcCqWoHQ",
+      "name": "The Forgotten East",
+      "address": "310 Canal St, New York",
+      "lat": 40.7197108,
+      "lng": -74.0028213,
+      "rating": 3.3,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJkbt7EqpZwokRVlhIxfhvLzE",
+      "name": "Stonewall National Monument Visitor Center",
+      "address": "51 Christopher St, New York",
+      "lat": 40.7338319,
+      "lng": -74.0020759,
+      "rating": 4.6,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJLXIkkiBawokRZ-jyLb-PVZ8",
+      "name": "Mmuseumm",
+      "address": "4 Cortlandt Alley, New York",
+      "lat": 40.7174747,
+      "lng": -74.00271289999999,
+      "rating": 4.6,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ43uQEnlZwokRTOo77puC5_w",
+      "name": "81st Street Studio",
+      "address": "1000 5th Ave Ground Floor, New York",
+      "lat": 40.7786175,
+      "lng": -73.9630622,
+      "rating": 4.5,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJg8J0MipZwokRO03w0rQvXJc",
+      "name": "SculptureCenter",
+      "address": "44-19 Purves St, Long Island City",
+      "lat": 40.7469196,
+      "lng": -73.94089439999999,
+      "rating": 4.3,
+      "types": [
+        "tourist_attraction",
+        "art_gallery",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJuxyCxJFZwokRgbiEWGdS-yY",
+      "name": "The Renee and Chaim Gross Foundation",
+      "address": "526 LaGuardia Pl, New York",
+      "lat": 40.7285063,
+      "lng": -73.9989172,
+      "rating": 4.9,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJK9SLWolZwokRfLobp8up_mg",
+      "name": "Swiss Institute",
+      "address": "38 St Marks Pl, New York",
+      "lat": 40.7284172,
+      "lng": -73.9875484,
+      "rating": 4.4,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJk3Il9StZwokRV9653gL6tAo",
+      "name": "Dr. Bernard Heller Museum",
+      "address": "1 W 4th St, New York",
+      "lat": 40.7287361,
+      "lng": -73.99467229999999,
+      "rating": 4.6,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJBUkyc1xYwokRCFFvsTx60xc",
+      "name": "Anya and Andrew Shiva Gallery",
+      "address": "11th Ave, New York",
+      "lat": 40.771377,
+      "lng": -73.9903652,
+      "rating": 4.8,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJufiSr7dZwokRswOBMrH-hv0",
+      "name": "Print Center New York",
+      "address": "535 W 24 St, New York",
+      "lat": 40.749162,
+      "lng": -74.0052927,
+      "rating": 4.3,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJORNWYChawokR3nt2Jj4ha-s",
+      "name": "Museum at Eldridge Street",
+      "address": "12 Eldridge St, New York",
+      "lat": 40.7147335,
+      "lng": -73.993506,
+      "rating": 4.7,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJF5e1QvlYwokRcVF6x1CEcQk",
+      "name": "The Paley Center For Media NYC",
+      "address": "25 W 52nd St, New York",
+      "lat": 40.7605246,
+      "lng": -73.9775999,
+      "rating": 4.4,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJmeJht6JZwokR9MfV2XeFKp4",
+      "name": "Yeshiva University Museum",
+      "address": "15 W 16th St, New York",
+      "lat": 40.7379541,
+      "lng": -73.9938347,
+      "rating": 4.4,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJJdIrfadbwokRc-gJEw6KD5s",
+      "name": "Sculpture Park",
+      "address": "34-20 River Ter., New York",
+      "lat": 40.7179205,
+      "lng": -74.01521369999999,
+      "rating": 4.8,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJkWU0zPtYwokRqPT_F8O7p-A",
+      "name": "Cullman Education Center MoMA",
+      "address": "4 W 54th St, New York",
+      "lat": 40.7611775,
+      "lng": -73.97620429999999,
+      "rating": 4.8,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJc5zurnxZwokR8vn4ERqrSfc",
+      "name": "RiseNY",
+      "address": "160 W 45th St, New York",
+      "lat": 40.7576213,
+      "lng": -73.9849595,
+      "rating": 4.5,
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJK3AoLp1ZwokR7TXyA10uR1o",
+      "name": "Annex",
+      "address": "1657 Broadway, New York",
+      "lat": 40.7627082,
+      "lng": -73.9836979,
+      "rating": 4.5,
+      "types": [
+        "museum",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": null
+    },
+    {
+      "id": "ChIJL5siHFhfwokRm9dxL6iXv2U",
+      "name": "RoGallery Museum of Long Island City",
+      "address": "37-02 48th Ave, Long Island City",
+      "lat": 40.7402557,
+      "lng": -73.9286381,
+      "rating": 5,
+      "types": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJfQ4SpqBYwokRzjvhOGDGR6A",
+      "name": "Robert Bendheim Playground",
+      "address": "Robert Bendheim Playground, 1184 5th Ave, New York",
+      "lat": 40.7905138,
+      "lng": -73.9543444,
+      "rating": 4.6,
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJy4wBT4xZwokRlPlUcvHPRBE",
+      "name": "Vesuvio Playground",
+      "address": "101 Thompson St, New York",
+      "lat": 40.7253622,
+      "lng": -74.0026209,
+      "rating": 4.4,
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJdY3Rwr9ZwokR-69tc5yUGlA",
+      "name": "Corporal John A. Seravalli Playground",
+      "address": "17 Horatio St, New York",
+      "lat": 40.7391104,
+      "lng": -74.00479039999999,
+      "rating": 4.3,
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJq9Bh4IhYwokRSUs2Oq1vU_Y",
+      "name": "Tecumseh Playground",
+      "address": "Amsterdam Ave &, W 78th St, New York",
+      "lat": 40.7817927,
+      "lng": -73.9786865,
+      "rating": 4.4,
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJfc-mSSb2wokROq3zYTQJTcA",
+      "name": "Happy Warrior Playground",
+      "address": "Amsterdam Ave &, 779 W 97th St, New York",
+      "lat": 40.7954101,
+      "lng": -73.96868979999999,
+      "rating": 4.4,
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ3SO2MCZZwokR2jBo9akeoXA",
+      "name": "Murray Playground",
+      "address": "45th Rd. & 21st St, Long Island City",
+      "lat": 40.7471007,
+      "lng": -73.9482661,
+      "rating": 4.4,
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJa_Rw5n9ZwokRW0_rNWVYSaE",
+      "name": "Luther Gulick Park",
+      "address": "Delancey St, New York",
+      "lat": 40.7158817,
+      "lng": -73.98191489999999,
+      "rating": 4.3,
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ61Q_lZpYwokR-NDe7FzCVnc",
+      "name": "Toll Family Playground",
+      "address": "Central Prk W, New York",
+      "lat": 40.7840144,
+      "lng": -73.9696866,
+      "rating": 4.5,
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJe2yFzZNZwokRqtHDpT17p0w",
+      "name": "Minetta Playground",
+      "address": "6th Ave &, Minetta Ln, New York",
+      "lat": 40.7306241,
+      "lng": -74.0013797,
+      "rating": 4.5,
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJt5hOnLBZwokRD4XmVpj3SoI",
+      "name": "Penn South Playground",
+      "address": "348 W 26th St, New York",
+      "lat": 40.7476258,
+      "lng": -73.9987076,
+      "rating": 4.2,
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJqez4yU5ZwokRnkUzp7dhLFA",
+      "name": "Msgr. McGolrick Park",
+      "address": "Russell Street &, Nassau Ave, Brooklyn",
+      "lat": 40.7244763,
+      "lng": -73.9433497,
+      "rating": 4.6,
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJq4d3boRZwokRVhFio4_uuHg",
+      "name": "Weehawken Public Playground",
+      "address": "NJ-495, Weehawken Township",
+      "lat": 40.7646858,
+      "lng": -74.0178075,
+      "rating": 4.9,
+      "types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJQzpYhNJYwokRXA1XBbZw_x0",
+      "name": "Queens Public Library at Long Island City",
+      "address": "37-44 21st St, Long Island City",
+      "lat": 40.7576767,
+      "lng": -73.9392185,
+      "rating": 4.2,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJhwizUZBZwokRoumg8C3dKGA",
+      "name": "Elmer Holmes Bobst Library",
+      "address": "70 Washington Square S, New York",
+      "lat": 40.7296095,
+      "lng": -73.997072,
+      "rating": 4.4,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": true
+    },
+    {
+      "id": "ChIJ1c5cgEZZwokRqsuowj0OEAw",
+      "name": "Brooklyn Public Library - Greenpoint Branch",
+      "address": "107 Norman Ave, Brooklyn",
+      "lat": 40.7259769,
+      "lng": -73.95072499999999,
+      "rating": 4,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJh7nhvYRXwokRQJv4KdDco5M",
+      "name": "North Bergen Kennedy Branch Library",
+      "address": "1231 John F. Kennedy Blvd, North Bergen",
+      "lat": 40.7623247,
+      "lng": -74.04262059999999,
+      "rating": 3.9,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJuw6oHVZZwokRzYyh9VP9irE",
+      "name": "Stavros Niarchos Foundation Library (SNFL)",
+      "address": "455 5th Ave, New York",
+      "lat": 40.7518974,
+      "lng": -73.9818374,
+      "rating": 4.4,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJu7CKI8VYwokRWVB8ujajwAE",
+      "name": "Roosevelt Island Library",
+      "address": "504 Main St, New York",
+      "lat": 40.7608336,
+      "lng": -73.95074749999999,
+      "rating": 4.3,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJHU9ln5lZwokRHTcHvwnZPjc",
+      "name": "Queens Public Library at Hunters Point",
+      "address": "47-40 Center Blvd, Long Island City",
+      "lat": 40.7453222,
+      "lng": -73.9580667,
+      "rating": 3.6,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJqaiomQBZwokRTHOaUG7fUTs",
+      "name": "New York Public Library - Stephen A. Schwarzman Building",
+      "address": "476 5th Ave, New York",
+      "lat": 40.75318230000001,
+      "lng": -73.9822534,
+      "rating": 4.7,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJdXLqYvlYwokRIS_17aA1Q2w",
+      "name": "53rd Street Library",
+      "address": "18 W 53rd St, New York",
+      "lat": 40.76085399999999,
+      "lng": -73.977245,
+      "rating": 4.5,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJUSbJp933wokRhGWsbK5umx8",
+      "name": "North Bergen Free Public Library 📚",
+      "address": "510 81st St, North Bergen",
+      "lat": 40.8034106,
+      "lng": -74.006152,
+      "rating": 4.4,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJDzgYtbZQwokRXGwdVgeGfjs",
+      "name": "Jersey City Free Public Library",
+      "address": "472 Jersey Ave, Jersey City",
+      "lat": 40.718852,
+      "lng": -74.04741899999999,
+      "rating": 4.5,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ3-WxI1xXwokRw95LO1j7Z3c",
+      "name": "Grand Street Branch Hoboken Public Library Bergen County Cooperative Library System",
+      "address": "124 Grand St, Hoboken",
+      "lat": 40.7393701,
+      "lng": -74.03639,
+      "rating": 4.8,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJZ-sbLypawokRCB0zWUxZeXc",
+      "name": "Seward Park Library",
+      "address": "192 E Broadway, New York",
+      "lat": 40.7144701,
+      "lng": -73.9884896,
+      "rating": 4.4,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJicyj7JZZwokRagn5wfATxZ8",
+      "name": "Jefferson Market Library",
+      "address": "425 6th Ave, New York",
+      "lat": 40.7345757,
+      "lng": -73.9991794,
+      "rating": 4.4,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJgVO4hhxawokRnssO35tIowk",
+      "name": "Battery Park City Library",
+      "address": "175 N End Ave, New York",
+      "lat": 40.7156953,
+      "lng": -74.0157366,
+      "rating": 3.9,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJYdMsZApZwokRqxskE8zEF5k",
+      "name": "Epiphany Library",
+      "address": "228 E 23rd St, New York",
+      "lat": 40.7380929,
+      "lng": -73.9820388,
+      "rating": 4.3,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ2xcs1llZwokR4KETOCCwBCk",
+      "name": "Brooklyn Public Library - Leonard Branch",
+      "address": "81 Devoe St, Brooklyn",
+      "lat": 40.7135803,
+      "lng": -73.9478827,
+      "rating": 4.1,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJweHQtHhXwokRqLhWuQbGePk",
+      "name": "Union City Public Library",
+      "address": "1800 Summit Ave, Union City",
+      "lat": 40.7654383,
+      "lng": -74.0386528,
+      "rating": 4.1,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    },
+    {
+      "id": "ChIJ6Zcs3V9YwokRG7Y1fXA1Ku4",
+      "name": "Riverside Library",
+      "address": "127 Amsterdam Ave, New York",
+      "lat": 40.7743625,
+      "lng": -73.9845098,
+      "rating": 4.2,
+      "types": [
+        "library",
+        "point_of_interest",
+        "establishment"
+      ],
+      "wheelchair_accessible": true,
+      "website": "",
+      "phone": "",
+      "open_now": false
+    }
+  ]
+}
