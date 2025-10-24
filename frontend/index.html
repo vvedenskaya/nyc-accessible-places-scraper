@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NYC Accessible Places</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Matrix Rain Background -->
+    <canvas id="matrix-bg"></canvas>
+    
+    <div class="container">
+        <!-- Header -->
+        <header>
+            <h1>NYC ACCESSIBLE PLACES</h1>
+            <p class="subtitle">// WHEELCHAIR ACCESSIBLE LOCATIONS IN NEW YORK CITY //</p>
+            <p class="subtitle" style="margin-top: 10px; font-size: 0.8rem; opacity: 0.6;">[ SYSTEM ONLINE ]</p>
+        </header>
+
+        <!-- Controls -->
+        <div class="controls">
+            <div class="filter-group">
+                <label>Filter by type:</label>
+                <select id="typeFilter">
+                    <option value="all">All Places</option>
+                    <option value="restaurant">Restaurants</option>
+                    <option value="cafe">Cafes</option>
+                    <option value="museum">Museums</option>
+                    <option value="park">Parks</option>
+                    <option value="library">Libraries</option>
+                </select>
+            </div>
+
+            <div class="filter-group">
+                <label>Min Rating:</label>
+                <select id="ratingFilter">
+                    <option value="0">Any</option>
+                    <option value="3">3+ ⭐</option>
+                    <option value="4">4+ ⭐⭐</option>
+                    <option value="4.5">4.5+ ⭐⭐⭐</option>
+                </select>
+            </div>
+
+            <div class="stats">
+                <span id="placeCount">0</span> places found
+            </div>
+        </div>
+
+        <!-- Map -->
+        <div id="map"></div>
+
+        <!-- Places List -->
+        <div class="places-list">
+            <h2>PLACES</h2>
+            <div id="placesList"></div>
+        </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    
+    <!-- Custom JS -->
+    <script src="app.js"></script>
+</body>
+</html>
