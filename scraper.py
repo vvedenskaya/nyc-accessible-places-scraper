@@ -106,7 +106,7 @@ def scrape_all_places():
 
     return all_places
 
-def save_to_json(data, filename= 'data/places.json'):
+def save_to_json(data, filename= 'frontend/places.json'):
     """Save data to JSON file"""
     with open(filename, 'w', encoding= 'utf-8') as f:
         json.dump({
